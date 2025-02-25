@@ -41,7 +41,7 @@ require("lazy").setup({
   { "lewis6991/impatient.nvim" },
 
   -- COLOR SCHEMES
-  { "projekt0n/github-nvim-theme", name = "github-theme", options = { transparent = true } },
+  { "projekt0n/github-nvim-theme", name = "github-theme"},
  })
 
 require("map")
